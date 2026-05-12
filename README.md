@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2553-separate-the-digits-in-an-array](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Dynamic Programming
@@ -16,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Sorting
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 <!---LeetCode Topics End-->
