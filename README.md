@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/1871-jump-game-vii) |
 ## Sliding Window
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/1871-jump-game-vii) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
