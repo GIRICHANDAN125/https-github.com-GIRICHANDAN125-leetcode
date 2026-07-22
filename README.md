@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0146-lru-cache) |
 | [1189-maximum-number-of-balloons](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/2784-check-if-array-is-good) |
@@ -127,4 +128,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/3620-network-recovery-pathways) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
