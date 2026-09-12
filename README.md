@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/1288-remove-covered-intervals) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/1288-remove-covered-intervals) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/2784-check-if-array-is-good) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/3620-network-recovery-pathways) |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0268-missing-number) |
 | [1840-maximum-building-height](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/1840-maximum-building-height) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -193,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
