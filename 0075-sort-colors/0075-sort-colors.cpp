@@ -4,7 +4,7 @@ public:
         int l=0;
         for(int i=0;i<nums.size();i++){
             if(nums[i]==0){
-                swap(nums[l],nums[i]);
+                swap(nums[l],nums[i]);/// here we checking first using two pointer likewe will swap for 0 to begin and afetr we will do same for value 2 we will do loop and swap here also 2 at end and after doing these two automatic 1 will come middle 
                 l++;
             }
         }
