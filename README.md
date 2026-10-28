@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Quicksort
 |  |
@@ -211,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0268-missing-number) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GIRICHANDAN125/https-github.com-GIRICHANDAN125-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
